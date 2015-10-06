@@ -1,0 +1,18 @@
+
+
+
+
+Quantum eigenv
+initializing a construct of 810 point matrix A
+ending matrix construct
+initializing Jacobi_rotations 810 points
+Jacobi_rotations ended, amount of transformations: 1126210
+ro_max: 3.6
+eig value: 2.99105
+eig value: 7.03139
+eig value: 11.4942
+
+time that it took to run the program: 806
+n_step = 810
+Press <RETURN> to close this window...
+

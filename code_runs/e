@@ -1,0 +1,13 @@
+matrix A before the rotation:
+1 3 
+3 2 
+initializing Jacobi_rotations of 4 points
+max value is : 0
+Jacobi_rotations ended, amount of transformations: 1
+matrix A aftert the rotation:
+-1.54138 0 
+0 4.54138 
+
+time that it took to run the program: 0
+Press <RETURN> to close this window...
+
