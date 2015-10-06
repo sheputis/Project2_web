@@ -1,0 +1,30 @@
+...........................................................................
+// Running for omega = 1/4 gives us this output:
+
+Quantum eigenv
+initializing a construct of n-2 200 points matrix A
+ending matrix construct
+
+splitting up in 200 points
+matrix dimensionality is :198
+ro_max: 20 ro_min: 0
+the eig values i found: 1.24981 index: 197 // this is the interesting part <<---------------
+
+time that it took to run the program: 0
+Press <RETURN> to close this window...
+............................................................................
+// Running for omega = 1/20 :
+
+Quantum eigenv
+initializing a construct of n-2 200 points matrix A
+ending matrix construct
+
+splitting up in 200 points
+matrix dimensionality is :198  
+ro_max: 20 ro_min: 0
+the eig values i found: 0.349993 index: 197  // this is the interesting part <<---------------
+
+time that it took to run the program: 0
+Press <RETURN> to close this window...
+
+
